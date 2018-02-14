@@ -36,6 +36,9 @@ public class Main {
 
         }else if (rawRange1 > 25){
                 System.out.print("\nKeep driving! Your current estimated range is: " + rawRange1 + " miles!");
+                //And we are done!!
+            //another comment
+
             }
     }
 
